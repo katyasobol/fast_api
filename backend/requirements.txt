@@ -1,0 +1,9 @@
+# app
+fastapi
+uvicorn
+pydantic
+email-validator
+# db
+databases[postgresql]
+SQLAlchemy
+alembic
